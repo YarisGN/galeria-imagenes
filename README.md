@@ -1,4 +1,4 @@
-# banco_usuarios
+# Galeria de imagenes
 
 Aplicación web que muestra una serie de imagenes cuando pasa el raton por encima.
 
